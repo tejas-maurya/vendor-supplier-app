@@ -1,7 +1,7 @@
 # 📦 RawEase — Empowering Street Food Vendors - [Live](https://vendor-supplier-app.vercel.app)
 
 > **Connecting Street Vendors with Trusted Raw Material Suppliers**  
-> A smart, scalable, and inclusive platform built during [Hackathon Name].
+> A smart, scalable, and inclusive platform built during Tutedude's Web devlopment Hackathon 1.0.
 
 ---
 
